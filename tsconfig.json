@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ajanuw-widgets": [
+        "dist/ajanuw-widgets"
+      ],
+      "ajanuw-widgets/*": [
+        "dist/ajanuw-widgets/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
