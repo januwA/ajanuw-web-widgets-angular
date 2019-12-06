@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { AjanuwWidgetsModule } from 'ajanuw-widgets';
+import { AjanuwWidgetsModule } from 'ajanuw-widgets-angular';
 
 import { AppComponent } from './app.component';
 

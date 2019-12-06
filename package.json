@@ -1,6 +1,11 @@
 {
   "name": "ajanuw-web-widgets-angular",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "description": "我常用的组件",
+  "author": "Ajanuw",
+  "license": "MIT",
+  "homepage": "https://github.com/januwA/ajanuw-web-widgets-angular",
+  "repository": "januwA/ajanuw-web-widgets-angular",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,10 +13,10 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "bws": "ng build ajanuw-widgets",
+    "bws": "ng build ajanuw-widgets-angular",
     "dev": "ng serve example"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~8.2.0",
     "@angular/common": "~8.2.0",

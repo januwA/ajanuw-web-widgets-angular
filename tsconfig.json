@@ -19,11 +19,11 @@
       "dom"
     ],
     "paths": {
-      "ajanuw-widgets": [
-        "dist/ajanuw-widgets"
+      "ajanuw-widgets-angular": [
+        "dist/ajanuw-widgets-angular"
       ],
-      "ajanuw-widgets/*": [
-        "dist/ajanuw-widgets/*"
+      "ajanuw-widgets-angular/*": [
+        "dist/ajanuw-widgets-angular/*"
       ]
     }
   },

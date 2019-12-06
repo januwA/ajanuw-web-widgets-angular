@@ -1,8 +1,8 @@
 /*
- * Public API Surface of ajanuw-widgets
+ * Public API Surface of ajanuw-widgets-angular
  */
 
-export * from "./lib/ajanuw-widgets.module";
+export * from "./lib/ajanuw-widgets-angular.module";
 export * from "./lib/center/center.component";
 export * from "./lib/column/column.component";
 export * from "./lib/expanded/expanded.component";
