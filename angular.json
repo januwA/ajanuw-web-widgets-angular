@@ -159,6 +159,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ajanuw-widgets-angular"
+    }
+  },
+  "defaultProject": "ajanuw-widgets-angular",
+  "cli": {
+    "analytics": false
+  }
 }
